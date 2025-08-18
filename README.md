@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/1200x/41/a0/1f/41a01fc8902a7dbf42e20b6a44f91533.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
-<h3 align="center">I'm a Ethical Hacker and Web Developer, Software Developer, Cyber Security in India technicalmittar</h3>
+<h3 align="center">I'm a Ethical Hacker and Web Developer, Software Developer, Cyber Security in India.</h3>
 <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="40%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalsyres&label=Profile%20views&color=0e75b6&style=flat" alt="technicalsyres" /> </p>
 <p align="center">
